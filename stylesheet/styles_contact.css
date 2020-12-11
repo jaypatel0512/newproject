@@ -184,6 +184,14 @@ ul{
     background-color: var(--green-light);
   }
 
+  .row5{
+    width: 100%;
+    margin-top: 15%;
+    clear: both;
+   background-image: url(../images/hero_background.jpg);
+   background-repeat: no-repeat;
+  }
+
   .row-heading{
     font-size: 50px;
   }
